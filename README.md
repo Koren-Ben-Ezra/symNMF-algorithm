@@ -53,7 +53,7 @@ The graph Laplacian _W ∈ R<sup>n×n</sup>_ is defined as:
 W = D^{-1/2}AD^{-1/2}
 ```
 
-#### 5. Decomposition Matrix (H)
+#### 4. Decomposition Matrix (H)
 ```math
 H_{n×k} = \text{arg min}_{H\geq0} ||W-HH^T||^2_F 
 ```
