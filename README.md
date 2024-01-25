@@ -1,2 +1,8 @@
-# kmeans-alg-module
-Kmeans Algorithm implemented in C.
+# Academic Course Project
+As part of an academic course on advanced data analytics, I embarked on the development of a sophisticated clustering algorithm known as Symmetric Non-negative Matrix Factorization (symNMF). The project was a culmination of intensive research and hands-on implementation, aimed at exploring cutting-edge techniques for uncovering hidden patterns within complex datasets. Leveraging mathematical principles and algorithmic optimization, symNMF offers a robust solution for clustering tasks, addressing real-world challenges in data analysis and interpretation.
+
+# Uses of K-means Algorithm
+While traditional clustering methods like K-means have been widely used in various industries for segmentation and pattern recognition, symNMF introduces a novel approach by operating on symmetric non-negative matrices. This unique methodology enables precise cluster identification while preserving essential data relationships, making it particularly effective for scenarios where data structures are intricate or high-dimensional. In addition to its accuracy and efficiency, symNMF provides versatility in clustering applications, accommodating diverse datasets and analytical requirements.
+
+# How to Use the Project
+To utilize the symNMF project effectively, users can leverage its intuitive Python interface (symnmf.py) for seamless integration into their data analysis pipelines. By specifying parameters such as the number of clusters, users can customize symNMF to their specific clustering objectives. Whether analyzing similarity matrices, computing degree matrices, or deriving normalized similarity matrices, symNMF offers a user-friendly platform for advanced clustering tasks. Furthermore, users can compare the clustering performance of symNMF against industry-standard algorithms like K-means, gaining deeper insights and making informed decisions based on their data analysis outcomes.
